@@ -4,6 +4,7 @@ A Node Project on Ethereum and Global Rinkeby Network
 You need to install MetaMask in google chrome and have to earn some ethereum using faucet.rinkeby.io and google plus account. Then put your pass code to deploy.js.
 then from ethereum folder: 
 > node compile.js
+
 > node deploy.js
 
 Update factory.js with new addrerss.
