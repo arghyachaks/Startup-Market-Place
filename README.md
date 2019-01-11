@@ -5,7 +5,7 @@ You need to install MetaMask and have to earn some ethereum using faucet.rinkeby
 
 Other than requirement package, you need to install:
 
-npm install --global --production windows-build-tools 
+npm install --global --production windows-build-tools (admin mode required)
 
 and
 
