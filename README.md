@@ -18,4 +18,8 @@ and
 
 VERSION NOTE: web3@1.0.0-beta.26, solc@0.4.25, next@4.1.4
 
+FOR RUN (From startup folder)
+
+> npm run dev
+
 
