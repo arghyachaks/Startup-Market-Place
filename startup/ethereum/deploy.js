@@ -3,7 +3,7 @@ const Web3 = require("web3");
 const compiledFactory = require("./build/CampaignFactory.json");
 
 const provider = new HDWalletProvider(
-  "photo enroll select update dad pause sketch chalk song cave nice vanish",
+  "potato enroll select date dad stop sketch cute song cave nice vanish",
   "https://rinkeby.infura.io/v3/79935d85d3be4157ba6f22cd15e9d6d1"
 );
 
