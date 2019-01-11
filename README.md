@@ -1,7 +1,7 @@
 # Startup-Market-Place
 A Node Project on Ethereum and Global Rinkeby Network
 
-You need to install MetaMask and have to earn some ethereum using faucet.rinkeby.io and google plus account.
+You need to install MetaMask in google chrome and have to earn some ethereum using faucet.rinkeby.io and google plus account.
 
 Other than requirement package, you need to install:
 
